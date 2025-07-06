@@ -56,13 +56,11 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     // Floating contact buttons animation
-    setTimeout(function() {
-        const floatingContact = document.querySelector('.floating-contact');
-        if (floatingContact) {
-            floatingContact.style.opacity = '1';
-            floatingContact.style.transform = 'translateX(0)';
-        }
-    }, 1000);
+    const floatingContact = document.querySelector('.floating-contact');
+    if (floatingContact) {
+        floatingContact.style.opacity = '1';
+        floatingContact.style.transform = 'translateX(0)';
+    }
 });
 
 // Show contact modal
