@@ -1,6 +1,0 @@
-title: DICHVUGUNNY.VN
-description: Dịch Vụ Game
-baseurl: "" # dùng nếu bạn deploy ở subfolder, ví dụ "/blog"
-url: "https://duyplus.github.io/dichvugunny" # Thay bằng URL thật
-theme: minima # hoặc để trống nếu không dùng theme có sẵn
-markdown: kramdown
