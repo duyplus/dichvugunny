@@ -81,8 +81,8 @@ a,a:hover,a:visited{text-decoration:none}
 .contact-buttons{display:flex;gap:20px;justify-content:center;flex-wrap:wrap}
 .modal-btn{display:flex;flex-direction:column;align-items:center;padding:20px 25px;border-radius:12px;text-decoration:none;color:#fff;font-weight:600;transition:all .3s ease;min-width:140px;box-shadow:0 4px 15px rgba(0,0,0,0.1)}
 .modal-btn:hover{transform:translateY(-3px);box-shadow:0 8px 25px rgba(0,0,0,0.2)}
-.phone-btn{background:linear-gradient(135deg,#00C851 0%,#00A441 100%)}
-.zalo-btn{background:linear-gradient(135deg,#0068FF 0%,#0180FF 100%)}
+.phone-btn{background:linear-gradient(135deg,#2cff81 0%,#00A441 100%)}
+.zalo-btn{background:linear-gradient(135deg,#99c3ff 0%,#0180FF 100%)}
 .modal-btn svg{margin-bottom:8px}
 .modal-btn span{text-align:center;line-height:1.4}
 .modal-btn small{font-size:12px;opacity:.9;font-weight:400}
